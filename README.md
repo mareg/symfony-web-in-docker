@@ -26,6 +26,8 @@ Start docker env:
 $ docker-compose up -d
 ```
 
+http://127.0.0.1:8088/
+
 Stop docker env:
 ```bash
 $ docker-compose down
